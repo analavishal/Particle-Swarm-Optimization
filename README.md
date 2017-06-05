@@ -8,7 +8,7 @@ matplotlib
 
 change ```func``` menthod to try different function minimization
 
-change ```no_of variables``` to change number of particles
+change ```no_of_particels``` to change number of particles
 
 ```space``` to start/stop
 
