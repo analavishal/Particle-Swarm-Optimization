@@ -14,3 +14,6 @@ change ```no_of variables``` to change number of particles
 
 use mouse to change particle position when in stop
 
+References:
+
+https://en.wikipedia.org/wiki/Particle_swarm_optimization
