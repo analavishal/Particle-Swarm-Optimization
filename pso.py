@@ -103,7 +103,7 @@ def update_line(num):
 
 
 def func(value):
-    return ((value.x)**3) + ((value.y)**3)
+    return ((value.x)**2) + ((value.y)**2)
 
 
 def calc_gbest():
