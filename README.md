@@ -1,6 +1,8 @@
 # Particle-Swarm-Optimization
 Python Implementation of Particle Swarm Optimization Algorithm
 
+```python pso.py```
+
 Python version used: Python3.6
 
 Required Libraries: 
