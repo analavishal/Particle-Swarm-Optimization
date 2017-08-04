@@ -8,7 +8,7 @@ Python version used: Python3.6
 Required Libraries: 
 matplotlib
 
-change ```func``` menthod to try different function minimization
+change ```func``` to try different function minimization
 
 change ```no_of_particels``` to change number of particles
 
