@@ -10,11 +10,11 @@ matplotlib
 
 change ```func``` to try different function minimization
 
-change ```no_of_particels``` to change number of particles
+change ```no_of_particels``` to change number of particles on canvas
 
-```space``` to start/stop
+```space``` to start/pause
 
-use mouse to change particle position when in stop
+use mouse to change particle position when particles are paused
 
 References:
 
